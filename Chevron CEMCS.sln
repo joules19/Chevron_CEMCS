@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chevron CEMCS", "Chevron CEMCS\Chevron CEMCS.csproj", "{994843FC-EDB2-4698-857A-1FE4D774BA0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{994843FC-EDB2-4698-857A-1FE4D774BA0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{994843FC-EDB2-4698-857A-1FE4D774BA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{994843FC-EDB2-4698-857A-1FE4D774BA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{994843FC-EDB2-4698-857A-1FE4D774BA0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95BC9523-52B8-4310-90E2-6195C89FD9E1}
+	EndGlobalSection
+EndGlobal
